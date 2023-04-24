@@ -1,4 +1,4 @@
 {
-    "prefix" : ">",
-    "mongooseConnectionString" : ""
+    "prefix" ; ">",
+    "mongooseConnectionString" ; ""
 }
